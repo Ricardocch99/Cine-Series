@@ -9,7 +9,7 @@
 - **Variables:** Incluye nombres de películas, años, presupuestos y calificaciones.
 
 ## ## Tecnologías
-- Google Colab y Python (o las herramientas que uses para leer el archivo).
+- Google Colab.
 
 ## ## Estado del Proyecto
-- 🟡 En proceso.
+Fin.
