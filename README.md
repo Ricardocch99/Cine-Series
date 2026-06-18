@@ -5,7 +5,7 @@
 - **Motivación:** Resolver el eterno debate de los fanáticos del cine de superhéroes usando datos reales.
 
 ## ## Comprensión de los Datos
-- **Fuente:** Datos históricos obtenidos de Kaggle (proyecto de arshmankhalid).
+- **Fuente:** Datos históricos obtenidos de Kaggle.
 - **Variables:** Incluye nombres de películas, años, presupuestos y calificaciones.
 
 ## ## Tecnologías
